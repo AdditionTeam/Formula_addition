@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:seagrass"
+        }
+    },
+    "result": {
+        "item": "minecraft:moss_block",
+        "count": 1
+    }
+}
